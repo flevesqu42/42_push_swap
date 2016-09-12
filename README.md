@@ -4,6 +4,4 @@ Subject : https://github.com/flevesqu42/42_push_swap/blob/master/github_ressourc
 
 Release date : 03/08/2015
 
-Submit in : two weeks.
-
 Language : C
